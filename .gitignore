@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Streamlit configuration
+.stignore
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
